@@ -5,7 +5,7 @@
 # in the tap.
 cask "soundowl" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "d5c4d1d31994db78c8045c1bd873980676d01cdc12cda3bda8a08dce1e2b45fe"
 
   url "https://github.com/fanckush/SoundOwl/releases/download/v#{version}/SoundOwl-#{version}.zip"
   name "SoundOwl"
